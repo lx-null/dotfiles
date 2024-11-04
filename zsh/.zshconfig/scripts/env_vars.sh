@@ -4,3 +4,5 @@ export NVM_DIR="$HOME/.nvm"
 
 export DOTFILES="$HOME/.dotfiles"
 export SCRIPTS="$HOME/.scripts"
+
+export OPENSCADPATH="$HOME/.local/share/OpenSCAD"
